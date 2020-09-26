@@ -11,9 +11,7 @@
 	"keywords": [],
 	"author": "",
 	"license": "ISC",
-	"dependencies": {
-		"cowsay": "^1.4.0"
-	},
+	"dependencies": {},
 	"devDependencies": {
 		"mocha": "^8.1.3"
 	}
