@@ -4,7 +4,6 @@
 	"description": "",
 	"main": "index.js",
 	"scripts": {
-		"cowsay": "cowsay",
 		"start": "node index.js",
 		"test": "mocha"
 	},
