@@ -3,7 +3,7 @@ const sum = require("./index");
 
 describe("sumのテスト", () => {
 	it("addのテスト", () => {
-		assert.strictEqual(sum.add([1, 2, 3]), 6);
+		assert.strictEqual(sum.add([1, 2, 3]), 5);
 	});
 
 	it("multiのテスト", () => {
